@@ -3,7 +3,7 @@
 
 [Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data)
 
-### DATA DRIVEN INNOVATIONSIN SUPPLY MANAGMENT SYSTEM WITH QLIK INSIGHTS 
+### DATA DRIVEN INNOVATIONS IN SUPPLY MANAGMENT SYSTEM WITH QLIK INSIGHTS 
 
 - The project aims to create a data-driven supply chain management system using Qlik, focusing on optimizing logistics, forecasting, and inventory management.
 - The goal is to enhance operational efficiency and responsiveness by leveraging advanced analytics and data insights.
@@ -16,5 +16,5 @@
 - The project will utilize Qlik Sense, a modern platform for supply chain data analytics, to provide real-time visibility, AI-powered automation, and in-depth analysis of disparate data sources.
 
 
-[Demo video](https://drive.google.com/file/d/146ZKNwwVK7aMHMsxJ0bbu-OeIwL4Wj5B/view?usp=drivesdk)
-[Document](https://workdrive.zohoexternal.com/writer/open/u3v7z9721d49761c24f238e17267d41aa93c0?authId=%7B%22linkId%22%3A%225k2wApawLzx-LYmlU%22%7D)
+- [Demo video](https://drive.google.com/file/d/146ZKNwwVK7aMHMsxJ0bbu-OeIwL4Wj5B/view?usp=drivesdk)
+- [Document](https://workdrive.zohoexternal.com/writer/open/u3v7z9721d49761c24f238e17267d41aa93c0?authId=%7B%22linkId%22%3A%225k2wApawLzx-LYmlU%22%7D)
