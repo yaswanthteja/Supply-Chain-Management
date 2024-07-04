@@ -16,5 +16,4 @@
 - The project will utilize Qlik Sense, a modern platform for supply chain data analytics, to provide real-time visibility, AI-powered automation, and in-depth analysis of disparate data sources.
 
 
-- [Demo video](https://drive.google.com/file/d/146ZKNwwVK7aMHMsxJ0bbu-OeIwL4Wj5B/view?usp=drivesdk)
 - [Document](https://workdrive.zohoexternal.com/writer/open/u3v7z9721d49761c24f238e17267d41aa93c0?authId=%7B%22linkId%22%3A%225k2wApawLzx-LYmlU%22%7D)
